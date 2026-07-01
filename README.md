@@ -1,4 +1,4 @@
-# 💻 DevSetup
+# DevSetup
 
 > Configuration de mon premier environnement de développement dans le cadre de ma formation Fullstack chez Akieni Academy.
 
@@ -35,8 +35,6 @@ Ce dépôt documente les différentes étapes de configuration des outils indisp
 ---
 
 ## Structure du projet
-
-## 📂 Structure du projet
 
 ```text
 DevSetup/
@@ -96,7 +94,7 @@ Projet réalisé dans le cadre de la formation **Développement Fullstack** chez
 
 ---
 
-## 👨‍💻 Auteur
+## Auteur
 
 **Prosper Kwon Gee**
 
