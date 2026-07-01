@@ -4,7 +4,9 @@
     "description": "> Configuration de mon premier environnement de développement dans le cadre de ma formation Fullstack chez Akieni Academy.",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
     },
     "repository": {
         "type": "git",
