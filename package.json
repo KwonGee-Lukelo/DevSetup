@@ -1,0 +1,24 @@
+{
+    "name": "projet-phase-0",
+    "version": "1.0.0",
+    "description": "> Configuration de mon premier environnement de développement dans le cadre de ma formation Fullstack chez Akieni Academy.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KwonGee-Lukelo/DevSetup.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/KwonGee-Lukelo/DevSetup/issues"
+    },
+    "homepage": "https://github.com/KwonGee-Lukelo/DevSetup#readme",
+    "devDependencies": {
+        "nodemon": "^3.1.14"
+    }
+}
