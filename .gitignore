@@ -1,0 +1,7 @@
+node_modules/
+.env
+dist/
+coverage/
+.vscode/
+.DS_Store
+Phase_1_Environnement_Setup.pdf
